@@ -1,5 +1,4 @@
-export default function solution(content) {
-  // BEGIN
+
   export default function solution(content) {
   // BEGIN
   const data = content
@@ -69,5 +68,3 @@ export default function solution(content) {
   // END
 }
 
-  // END
-}
